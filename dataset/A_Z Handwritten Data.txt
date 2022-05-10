@@ -1,0 +1,2 @@
+this file here should be an csv file containing data entries which can be downloaded from kraggle.unfortunately it is very large and i couldnt upload it here, i have attached the reference the here to download the csv file.
+https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format
